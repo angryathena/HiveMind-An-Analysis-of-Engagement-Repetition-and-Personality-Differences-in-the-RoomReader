@@ -1,0 +1,45 @@
+﻿index,reverse,statement,dimensions,agreeableness,conscientiousness,extraversion,neuroticism,openness
+1,,Is talkative,Extraversion,0,0,1,0,0
+2,-1,Tends to find fault with others,Agreeableness,-1,0,0,0,0
+3,,Does a thorough job,Conscientiousness,0,1,0,0,0
+4,,"Is depressed, blue",Neuroticism,0,0,0,1,0
+5,,"Is original, comes up with new ideas",Openness,0,0,0,0,1
+6,-1,Is reserved,Extraversion,0,0,-1,0,0
+7,,Is helpful and unselfish with others,Agreeableness,1,0,0,0,0
+8,-1,Can be somewhat careless,Conscientiousness,0,-1,0,0,0
+9,-1,"Is relaxed, handles stress well",Neuroticism,0,0,0,-1,0
+10,,Is curious about many different things,Openness,0,0,0,0,1
+11,,Is full of energy,Extraversion,0,0,1,0,0
+12,-1,Starts quarrels with others,Agreeableness,-1,0,0,0,0
+13,,Is a reliable worker,Conscientiousness,0,1,0,0,0
+14,,Can be tense,Neuroticism,0,0,0,1,0
+16,,Generates a lot of enthusiasm,Extraversion,0,0,1,0,0
+17,,Has a forgiving nature,Agreeableness,1,0,0,0,0
+18,-1,Tends to be disorganized,Conscientiousness,0,-1,0,0,0
+21,-1,Tends to be quiet,Extraversion,0,0,-1,0,0
+22,,Is generally trusting,Agreeableness,1,0,0,0,0
+23,-1,Tends to be lazy,Conscientiousness,0,-1,0,0,0
+24,-1,"Is emotionally stable, not easily upset",Neuroticism,0,0,0,-1,0
+25,,Is inventive,Openness,0,0,0,0,1
+26,,Has an assertive personality,Extraversion,0,0,1,0,0
+27,-1,Can be cold and aloof,Agreeableness,-1,0,0,0,0
+28,,Perseveres until the task is finished,Conscientiousness,0,1,0,0,0
+29,,Can be moody,Neuroticism,0,0,0,1,0
+30,,"Values artistic, aesthetic experiences",Openness,0,0,0,0,1
+31,-1,"Is sometimes shy, inhibited",Extraversion,0,0,-1,0,0
+32,,Is considerate and kind to almost everyone,Agreeableness,1,0,0,0,0
+33,,Does things efficiently,Conscientiousness,0,1,0,0,0
+34,-1,Remains calm in tense situations,Neuroticism,0,0,0,-1,0
+41,-1,Has few artistic interests,Openness,0,0,0,0,-1
+42,,Likes to cooperate with others,Agreeableness,1,0,0,0,0
+43,-1,Is easily distracted,Conscientiousness,0,-1,0,0,0
+44,,"Is sophisticated in art, music, or literature",Openness,0,0,0,0,1
+40,,"Likes to reflect, play with ideas",Openness,0,0,0,0,1
+39,,Gets nervous easily,Neuroticism,0,0,0,1,0
+38,,Makes plans and follows through with them,Conscientiousness,0,1,0,0,0
+37,-1,Is sometimes rude to others,Agreeableness,-1,0,0,0,0
+36,,"Is outgoing, sociable",Extraversion,0,0,1,0,0
+35,-1,Prefers work that is routine,Openness,0,0,0,0,-1
+20,,Has an active imagination,Openness,0,0,0,0,1
+19,,Worries a lot,Neuroticism,0,0,0,1,0
+15,,"Is ingenious, a deep thinker",Openness,0,0,0,0,1
