@@ -1,0 +1,280 @@
+speaker,start,end,duration,content
+P220, 0.0, 0.0,0.0, " "
+T002,0.62,16.07,15.45,"OK, recording story now so we can go ahead. What we're going to be doing today is really kind of relax and easy. We're just gonna play a quiz game, so you might have heard of this particular game if you ever watched the TV show family fight or Family feud."
+T002,17.87,20.87,3.0,"If you haven't, don't worry 'cause I'm gonna explain it now anyway."
+T002,21.77,33.75,11.98,"So, uh, I'm gonna ask you guys a question and this question was also asked to 100 people in some survey a while back and you have to try and guess the most popular answers given in the survey."
+T002,34.67,54.03,19.36,"Uh, so I ask you to name like the top three, and once you've hit on the top three, I'll ask you to rank those top 3 answers in order of popularity. So for example, one of those questions is name something people are afraid of and people responded with spiders, heights and other people."
+T002,56.05,73.0,16.95,"I like a spiders be number one, other people #3 etc and you can feel free to, you know, shadow over each other and talk to each other. You're working together in this scenario. You know competing, so just you know, keep going until you hit on the right words and I'll tell you when you. When you picked all the top 3 ounces."
+T002,74.16,77.15,2.99,"Right, so it's not kind of clear enough, so I don't have any questions."
+P207,78.25,78.92,0.67,All good.
+T002,79.6,83.63,4.03,"But nice, well are we ready for question one?"
+P186,85.2,85.52,0.32,Yep.
+T002,87.8,93.79,5.99,"Alright, the question is name something people are often chased by in movies."
+P186,95.73,96.4,0.67,Cars.
+T002,96.94,99.95,3.01,Cars is on there. Yeah? OK well that is 3 nights.
+P207,99.41,100.39,0.98,Other people.
+T002,101.23,102.81,1.58,Other people isn't on there.
+P207,103.34,103.81,0.47,Oh
+T002,103.62,104.43,0.81,That's that's great.
+P191,103.75,104.3,0.55,Uh.
+P191,105.24,107.03,1.79,From clones
+P191,107.66,108.19,0.53,remove.
+T002,107.89,111.16,3.27,"Clouds is among there, but I feel like."
+T002,111.85,115.99,4.14,"Yeah, it's probably something in the in the like horror or fantasy genre."
+P186,117.27,117.94,0.67,Dogs.
+T002,119.08,120.42,1.34,Not dogs isn't on there.
+P186,127.87,128.62,0.75,What else is it?
+T002,130.3,131.61,1.31,We had one. We fell already.
+P191,130.86,131.34,0.48,Killer.
+P191,132.31,132.84,0.53,Nice.
+T002,132.63,133.75,1.12,Killer citysafe
+T002,134.78,135.99,1.21,killers is on there.
+T002,136.86,137.93,1.07,Uhm?
+T002,140.18,141.93,1.75,Who would chase a killer though?
+P186,142.67,144.0,1.33,Cops like place.
+P207,143.4,143.96,0.56,Oh yeah.
+T002,143.67,146.81,3.14,Yeah 'cause yeah pops is on there. OK two out of three.
+T002,147.91,154.12,6.21,"It's kind of hard to guess. It really depends what kind of films you watch those. OK, so we've got cars and we got caught."
+P186,154.9,156.6,1.7,Did you say the last one was like fantasy?
+T002,155.0,155.5,0.5,And.
+T002,157.35,161.68,4.33,"Yeah, there's one kind of yeah, more of both fantasy sci-fi."
+P186,157.58,157.94,0.36,Sorry.
+P186,165.36,165.95,0.59,Monster
+T002,166.5,167.03,0.53,Yeah.
+P207,167.57,168.09,0.52,Oh
+T002,169.59,171.08,1.49,I love Sonic games today.
+T002,173.23,174.93,1.7,Uhm so.
+T002,175.62,185.85,10.23,Those those are the top three. We had cars first come costs that monsters. So now what do you think you'd rank these in order of popularity? Who do you think?
+T002,186.57,188.98,2.41,But which do you think is the most popular answer?
+P191,190.61,191.75,1.14,Cops problem.
+T002,192.82,195.77,2.95,"Yeah, I guess there's not a lot of police type movies."
+P186,192.85,193.24,0.39,M.
+P207,193.69,193.96,0.27,Yeah.
+T002,196.87,198.6,1.73,The cops you think? Number one.
+T002,200.34,201.76,1.42,Why do you think that out of interest?
+P191,204.72,210.81,6.09,"Mum was like no, never really. There's like an early every night called me. That's like those issues seen."
+T002,211.7,212.15,0.45,Yeah.
+T002,213.1,214.21,1.11,"Yeah, I guess that's fair."
+T002,215.35,216.72,1.37,"OK, so."
+T002,217.43,222.78,5.35,Cops number one. Everyone agree with that or anyone thinks that cars or monsters should be before it.
+P207,224.0,226.3,2.3,Maybe monsters blocking cops.
+T002,227.27,227.85,0.58,OK.
+P207,227.41,228.24,0.83,Should be in the barn.
+T002,229.17,232.06,2.89,So directing cops and then maybe monsters #2.
+P207,232.31,233.68,1.37,"Yeah, that's what I'm thinking."
+T002,234.01,236.62,2.61,And then that would leave cards and #3.
+T002,237.71,240.82,3.11,"So cops, monsters and cars."
+P186,241.61,242.04,0.43,Yep.
+P207,241.72,242.05,0.33,Yeah.
+T002,242.97,247.56,4.59,"OK, well I can reveal that monster is actually number one."
+P207,247.31,248.36,1.05,"Ah, OK."
+T002,249.23,252.81,3.58,The hard luck with monsters. Then cars and costs.
+T002,253.78,257.67,3.89,So please no please like she lost.
+P186,254.02,255.16,1.14,So we didn't get any of them right?
+P207,255.44,256.01,0.57,No.
+P191,256.43,256.98,0.55,Man.
+P207,258.72,259.12,0.4,Damn.
+T002,258.73,259.44,0.71,Uhm?
+T002,260.33,263.63,3.3,"But yeah, it's a funny one I suppose. 'cause it really depends on what kinda."
+T002,264.34,269.33,4.99,"What kind of movies you watch? If someone asks you that question, name something people are chased by in films and he walks like."
+T002,270.25,275.64,5.39,I know loaded kind of horror sci-fi fantasy. You're gonna say some type of monster from me.
+T002,276.37,278.96,2.59,Pretty big and Bella maybe that's why I put it there.
+T002,280.86,287.83,6.97,"OK, we're going to do a couple of these, so we're going to do another question though you guys ready for a second question."
+P191,281.19,281.57,0.38,Yeah.
+P186,288.22,288.55,0.33,Yep.
+P191,288.82,289.19,0.37,Yep.
+P207,288.84,289.12,0.28,If.
+T002,290.4,291.11,0.71,OK.
+T002,291.79,294.52,2.73,Name an instrument in a Symphony Orchestra.
+P186,295.5,296.01,0.51,Alan
+T002,296.71,298.89,2.18,"Yeah, by lids on their 103."
+P191,299.13,299.56,0.43,Uh.
+P186,299.36,299.99,0.63,float
+T002,301.09,302.64,1.55,Food is not there really.
+P191,303.49,304.01,0.52,Hello.
+P207,303.87,304.76,0.89,Hello yes.
+T002,304.92,310.19,5.27,Cello yeah shadows under OK violin cello. We got two out of three. It's one more.
+P186,313.43,314.0,0.57,Viola.
+T002,314.97,318.18,3.21,Bialys on there would be funny if it was all just string instruments.
+P186,319.55,320.9,1.35,The trumpet.
+T002,321.84,322.98,1.14,Trump is not there.
+P207,324.2,325.13,0.93,Saxophone
+T002,326.24,327.38,1.14,No saxophones.
+P191,328.0,328.94,0.94,Trombone.
+T002,330.19,331.04,0.85,Not Rambo.
+P186,332.7,334.39,1.69,Is it brass or?
+T002,335.31,341.9,6.59,"Uh, it's not actually a brothel. And So what if we had only gone through the P string set a few brassland?"
+T002,342.87,345.3,2.43,Funding other parts of the orchestra.
+P191,345.62,347.33,1.71,Portland symbols
+T002,348.14,350.97,2.83,"That's OK, that's that's related, so symbols."
+T002,351.65,356.0,4.35,"Uh, well it's kind of a broader word for the type of instrument the symbol is."
+P186,358.87,359.4,0.53,Medal.
+P191,359.46,361.88,2.42,not professional person.
+T002,361.25,365.56,4.31,"Percussion yet so. OK, another word for profession always there."
+P191,367.11,367.73,0.62,Most.
+T002,368.08,368.9,0.82,"Drugs, yeah?"
+P207,370.3,370.73,0.43,Oh
+T002,370.41,373.88,3.47,"The violin, cello, drums, those men top three."
+P186,374.58,375.01,0.43,Urgent.
+T002,375.53,380.8,5.27,"Yeah, uhm OK, what order do you think he drank these in there?"
+P186,383.03,385.76,2.73,Kind of the order we called the mountain like violin.
+T002,385.24,385.76,0.52,Yeah.
+P207,385.88,386.47,0.59,yeah.
+T002,387.71,397.13,9.42,"Yeah, that seems to make sense and that is the correct answer, but made cello drums. I feel like drums is a really weird one, UM."
+P207,392.01,392.6,0.59,Nice.
+P191,392.27,392.64,0.37,No.
+P186,396.57,397.0,0.43,Yeah.
+T002,397.97,411.14,13.17,"I don't know. I'd always, maybe it's just 'cause of the word orchestra. I just feel like I'd use a fancier word like percussion. I'd always safer question instead of drums I associate drums more with like a live set if I would want to see a band like."
+P186,404.54,404.85,0.31,Blue
+T002,412.04,414.59,2.55,Just a regular old Bond film orchestra.
+P186,416.19,421.94,5.75,"yeah, definitely even with its Symphony Orchestra, you're thinking like, gosh, nearly and drums down trees."
+T002,421.38,422.03,0.65,Yeah.
+P207,423.82,424.29,0.47,Sure.
+T002,423.94,424.51,0.57,Yeah.
+T002,427.46,437.83,10.37,"I guess like in these things as well. It's not necessarily the most correct answer, but just like what people said, it doesn't have to be like logical so much as just, you know."
+P186,434.02,434.29,0.27,You
+T002,439.64,459.97,20.33,"OK, we're gonna do. Third question though. I'm going to point out before I ask this that it was asked before the whole coronavirus pandemic thing started. So you might want to bear that in mind when you try to think about people responded. So the question is name a public place where you're likely to catch a cold or flu bug."
+P207,450.78,451.25,0.47,Right?
+P191,462.99,463.56,0.57,SMH.
+P186,463.0,463.59,0.59,Bus.
+T002,465.15,468.27,3.12,School bus at the headers 2 right.
+P191,468.93,469.31,0.38,Yeah.
+P186,469.3,469.6,0.3,Yeah.
+T002,469.73,479.84,10.11,"At schools, on their buses, on there. But I feel like when she's kind of religious for level. Yes, cool hospital yeah, hospitals on there right school hospital we got two out of three so more."
+P207,473.46,474.78,1.32,Hospital movie.
+P186,480.74,481.35,0.61,Sports.
+T002,482.86,484.61,1.75,Where did mother feel?
+P207,484.28,484.97,0.69,Park.
+T002,485.89,492.82,6.93,Well apart God park is cut quite a code with themed answer. I feel that's the only place that has a lot of people in it at the moment.
+P191,495.33,496.76,1.43,"Like a shop, no."
+T002,497.45,498.6,1.15,"No, not a shot."
+P191,498.97,499.23,0.26,Yeah.
+P186,499.53,500.1,0.57,Airplane.
+P207,499.77,500.5,0.73,Kane
+T002,500.7,506.97,6.27,"Plane yeah, OK, that's OK. That's freedom down. It's cool. Hospital and airplane."
+P207,502.35,502.72,0.37,yeah.
+P207,507.42,507.84,0.42,Right?
+T002,507.75,512.82,5.07,"Play, there's a bit of a wild card though. Or maybe I just think that 'cause I haven't been on the plane in forever."
+P186,513.54,514.68,1.14,"Yeah, it's been so long."
+T002,515.07,519.38,4.31,"Yeah, OK, what do you? What would you guys put number one out of those three?"
+P186,521.02,521.52,0.5,Hospital
+P191,521.39,525.07,3.68,I think school 'cause like I always just color codes in schools.
+P186,523.17,523.48,0.31,no.
+T002,525.96,540.43,14.47,"Oh yeah, I remember actually getting head lice in school a lot. Or like he got a letter and it was like come, you know that would be circulated radula parents would be like a child in your class has headlights need have? It'll be wondering who it was."
+P186,526.52,527.03,0.51,That's true.
+P191,537.85,538.28,0.43,No.
+T002,541.36,545.93,4.57,"'cause yeah, school is definitely hotbed of infection. Unhappy with problem number one."
+P186,550.24,553.25,3.01,I just say murder again like school hospital plane.
+T002,554.47,559.44,4.97,"Yeah, well that is the correct word is so well done."
+T002,560.87,564.48,3.61,It's just or do you call it added? Seems like the most natural way to go with.
+P186,562.65,562.94,0.29,Yeah.
+T002,565.36,574.89,9.53,"Yeah airplane, because it's just such a funny one. I never thought like of getting sick on an airplane. I don't think anyone ever told me if we get a cold from being on a plane."
+P207,574.9,577.75,2.85,"Yes, it's 'cause like you're sitting next to people maybe."
+T002,578.29,578.82,0.53,Yeah.
+P186,578.51,583.7,5.19,"Unlike recycled air, I always get a cough after I've been on an airplane for like more than two hours."
+T002,582.98,584.23,1.25,Oh
+P186,584.31,585.38,1.07,I was getting like a sore throat.
+T002,586.29,587.68,1.39,"OK, and it's not like."
+T002,588.5,592.02,3.52,It's not like the cold is that like a sickness or it's not dry air or what is that?
+P186,592.46,596.99,4.53,"I don't know, I just know if I'm on a plane for more than two hours I end up with sore Throat Flight 3 days."
+T002,597.39,597.78,0.39,Huh?
+P186,598.18,598.71,0.53,Album
+T002,599.08,599.59,0.51,Interested
+T002,601.34,601.92,0.58,right?
+T002,603.65,608.72,5.07,"OK, let's move on. Anyway, let's go to the next question so."
+T002,609.34,612.83,3.49,This is kind of a more slightly tougher when I feel.
+T002,613.82,617.27,3.45,"Uhm, name something you do not learn in school."
+P186,618.06,618.67,0.61,taxes
+P207,619.65,620.56,0.91,I was going to say that.
+T002,619.8,627.61,7.81,"Taxes. Yeah God, I I wish I'd learned taxes in school, but I think that's not. That's not on there. That's not even one of the three ounces."
+P207,622.03,622.37,0.34,Yep.
+P207,627.66,628.63,0.97,"Oh, really."
+T002,628.37,631.6,3.23,"So I don't know who they asked, but it definitely wasn't like."
+P191,629.82,630.38,0.56,Hope.
+P207,630.4,630.97,0.57,Cheese
+P186,630.71,631.25,0.54,move.
+T002,632.22,635.23,3.01,Our age group. I feel like everyone would just say taxes.
+P186,633.39,633.8,0.41,Yeah.
+P186,635.98,637.61,1.63,Even had a drive.
+T002,639.05,644.92,5.87,"No, that's not under. I feel like I did have a driving class since like transition year in school."
+P186,644.85,645.42,0.57,Oh yeah.
+T002,645.91,649.13,3.22,Not driving faster like Rd safety or something.
+P186,651.17,651.61,0.44,Let's
+P207,654.84,656.01,1.17,CPR maybe?
+T002,656.89,658.14,1.25,CPR is no longer.
+P207,657.76,658.85,1.09,Like first aid.
+T002,659.51,665.95,6.44,No. Well these are all good ideas. Like if you were to start up the school it would be great if you had to drive and do CPR.
+P186,670.6,671.11,0.51,laundry.
+P191,671.34,673.0,1.66,I can't think of anything like.
+T002,672.94,678.99,6.05,Yeah Violet resale lodging that's kind of OK. That's close to one of them.
+P186,675.48,675.96,0.48,Yeah.
+P186,679.24,679.75,0.51,Cleaning.
+T002,680.53,684.52,3.99,OK laundry and cleaning what's like a more general term for both those.
+P207,685.62,686.79,1.17,Practical skills.
+P191,687.27,687.88,0.61,Boards.
+T002,688.5,693.43,4.93,"Troy, yeah that's true. That's that's what it what I did the free OK."
+P207,689.56,690.05,0.49,Not sure.
+P186,689.94,690.29,0.35,God.
+T002,694.77,696.63,1.86,But what are the three? There's two more.
+P207,697.69,698.18,0.49,Sure.
+T002,698.71,703.46,4.75,"You see, when I say so, really, it's really hard to think of these things. This one I think is."
+P186,699.07,699.58,0.51,Down.
+T002,713.2,716.96,3.76,"OK, trying to give hints so I can get this stuff makes sense."
+T002,719.15,720.2,1.05,Uhm?
+T002,721.77,727.08,5.31,"The other two the like how stories that feel is more practical, or the other two are kind of more social."
+T002,727.71,729.02,1.31,Socially related
+T002,730.56,736.97,6.41,"so. So with that, uh, God, you wouldn't learn that in school or she said she never learned that in school. What would they be talking about?"
+P207,740.08,741.29,1.21,Maybe sign language.
+T002,742.46,748.54,6.08,"No, that's no longer it again. Like you got some great suggestions for the curriculum sign language."
+P207,743.0,743.71,0.71,But normal.
+T002,750.47,751.29,0.82,Uhm?
+T002,752.53,753.5,0.97,Try and say.
+P186,752.56,754.01,1.45,What is social cues?
+P191,753.9,754.85,0.95,Oh wait.
+T002,754.72,757.27,2.55,Social cues is close to one of them.
+P191,758.45,759.92,1.47,My calls were the bike no.
+T002,760.85,762.16,1.31,"No, that's not on there."
+T002,762.82,766.96,4.14,So I actually found right about it so someone should have told me I had to do that.
+P186,768.28,770.57,2.29,I feel like I can just badly and.
+P186,771.88,773.47,1.59,He said social queues was closed.
+T002,773.73,774.29,0.56,Yeah.
+P186,775.03,777.43,2.4,Just like how to make friends.
+T002,775.22,776.09,0.87,That's coming in.
+T002,778.51,780.88,2.37,"Now I had to make friends. OK, social cues."
+T002,781.56,792.08,10.52,We were talking about an orchestra and the question say you were going to like a fancy event like that and you would need a certain type of social skills to like interact in that environment.
+P207,792.44,793.43,0.99,Like manners?
+T002,793.53,799.81,6.28,Yeah it matters. OK so two out of three. Now we got manners of house chores.
+P207,794.61,795.1,0.49,Uh.
+T002,801.09,805.72,4.63,I feel like we're painting a little picture of the people who answered the survey. Mothers chores.
+P186,808.08,808.67,0.59,Then
+P186,812.63,815.72,3.09,is the last one you said. Kind of like broad and it's more social.
+T002,816.06,816.67,0.61,Yeah.
+T002,818.16,822.85,4.69,"Socially related, so try and think of like responsibilities you might have in the future."
+P186,824.44,825.29,0.85,Authorized children.
+T002,825.97,827.29,1.32,"Yeah, parenting."
+P207,828.27,829.22,0.95,Everything OK?
+T002,829.3,829.91,0.61,Yeah.
+P186,829.87,840.86,10.99,I have no idea.
+T002,830.81,836.99,6.18,"OK, so that's the tree that we are. How strong his manners are parenting. What do you think of number one out of those?"
+P191,844.3,848.7,4.4,Select parenting 'cause I know people will probably answer these questions before we get older.
+T002,849.3,857.11,7.81,Yeah it does kind of feel like that like I feel like our generation would definitely just say taxes or like I don't know employment welfare.
+P207,850.06,850.49,0.43,Google.
+T002,859.88,868.28,8.4,"Uhm yeah, so parenting seems like a reasonable number one. And if you have kids yourself, you're probably thinking like, well, nobody told me I had to do this."
+T002,869.66,875.81,6.15,"OK, so parenting and then we've got manners and house chores left, so which which would be last to be second?"
+P191,886.62,890.07,3.45,"No, I feel like money should be friends like people change my mind."
+T002,891.54,892.14,0.6,Yeah.
+P186,892.56,893.85,1.29,It could go either way.
+T002,892.94,894.69,1.75,"Hey, what do you think money is first?"
+P191,895.33,899.56,4.23,Like like looking my friends like we have no manners or whatever.
+T002,900.48,901.13,0.65,Yeah.
+T002,902.47,905.59,3.12,"Yeah, that does feel like quite a parental thing. Someone to say to you."
+T002,906.93,907.36,0.43,Well.
+P207,912.77,916.21,3.44,"Yes, just go parenting manners and then chores maybe."
+T002,916.83,921.26,4.43,"Yeah, OK, solid parenting. My nose has choice, yeah?"
+P207,922.19,922.67,0.48,Yeah.
+T002,923.54,926.81,3.27,That is the correct order congratulation.
+P207,925.43,926.0,0.57,You
+T002,927.78,940.95,13.17,"Uhm, well, that was actually the last question, so thank you so much for participating and really means a lot because we find it so hard to get people you know you're contributing to science, know that."
+P186,940.69,942.12,1.43,"Yes, it's great."
+T002,942.71,949.51,6.8,"Yeah, so thanks so much. We're just gonna read this session off with a couple things and then you'll be free to go."
+P186,949.98,950.49,0.51,Perfect.

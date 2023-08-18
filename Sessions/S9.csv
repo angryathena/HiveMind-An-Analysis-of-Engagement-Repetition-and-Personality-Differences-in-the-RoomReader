@@ -1,0 +1,639 @@
+speaker,start,end,duration,content
+T001,1.1,12.07,10.97,"So hello everyone and thanks for coming today. We're going to play a quiz, so I'm going to ask you a question that was asked to 100 people and you need to give me the three most popular answers."
+T001,13.1,23.98,10.88,"After you get the top tree answers, I'm going to ask you to rank them from most popular to least popular. So, for example, if I ask you to question name something people are afraid of."
+T001,25.19,30.09,4.9,"You know the tree. Most popular answers would be heights, spiders and other people."
+T001,31.1,36.3,5.2,"And when asked to rank them, you know the the ranking is spiders heights, other people?"
+T001,37.58,41.17,3.59,So hopefully that's clear any questions at this point.
+P022,41.7,42.12,0.42,Nope.
+T001,43.68,47.39,3.71,"OK, brilliant, I'm please do work as a team so."
+T001,48.08,52.96,4.88,The first question is name something that people are often chased by in movies.
+T001,60.33,62.69,2.36,So what are people chased by movies? Sorry.
+P007,60.96,61.35,0.39,No.
+P007,62.2,64.03,1.83,Dog dog.
+T001,64.58,65.61,1.03,"Not dogs, no."
+P022,66.32,68.13,1.81,I'm going to guess criminals.
+T001,70.2,74.75,4.55,"Criminal is a good one, but not there. But think along those lines."
+P022,73.74,74.29,0.55,You could do it.
+P022,75.21,76.32,1.11,Other people then?
+P007,75.97,78.04,2.07,"Gangsters, gangsters."
+T001,78.18,81.6,3.42,"Not gangsters water day, typically chased by."
+P049,84.3,84.96,0.66,Gunmen
+T001,85.75,86.19,0.44,Sorry.
+P049,86.58,87.41,0.83,a gunman.
+T001,87.8,90.68,2.88,I've got men who would be chasing these people.
+P022,90.87,92.25,1.38,Stop the police.
+P007,91.73,93.72,1.99,Please please please.
+T001,92.44,94.64,2.2,"The police yeah, the police police are one."
+P022,93.22,95.81,2.59,"Yeah, OK yeah OK."
+T001,97.0,98.11,1.11,So police is one of them.
+P007,99.04,100.92,1.88,"Uh, the change?"
+P049,104.93,105.95,1.02,Bad guy.
+T001,107.43,109.91,2.48,Oh bad guys. Think along those lines.
+P049,111.03,111.85,0.82,Villain.
+T001,114.2,118.47,4.27,Keep thinking you know something that's a very popular genre of.
+T001,119.15,119.84,0.69,A film.
+P049,120.66,123.14,2.48,"Yeah, I haven't seen any of The Avengers so."
+P022,123.99,124.7,0.71,Uhm?
+T001,124.49,128.0,3.51,"Not superheroes anyway, but what's it like? What's a another like broad?"
+P022,127.08,127.56,0.48,Hello.
+P022,128.41,131.18,2.77,What account is like a car chase when people be chased by cars?
+T001,131.19,132.5,1.31,"Cars is another one, yeah."
+T001,134.34,137.51,3.17,It's got a police and cars. We got one more.
+P007,138.32,141.85,3.53,"Flights or something like that, like space ships or."
+T001,143.18,148.53,5.35,"UH-10 again, think closer there. What's the? What's a very famous type of movie?"
+T001,152.12,154.05,1.93,"Maybe not as famous as it used to be, but."
+P022,156.19,158.32,2.13,"No, please we got cars."
+T001,160.1,161.27,1.17,"Carter, do you have any other?"
+T001,162.05,162.72,0.67,Any ideas?
+P028,163.52,165.07,1.55,"Uh, FBI."
+T001,166.0,167.01,1.01,Not the FBI.
+P007,168.26,170.73,2.47,Flags files on those things.
+T001,172.37,175.47,3.1,"But something it might, it might be a human, you know, it might be."
+P049,175.98,179.15,3.17,"I kept thinking Godzilla, but I don't think that's in the top three."
+T001,179.31,181.26,1.95,But what's what is Godzilla?
+P022,181.33,182.54,1.21,He's a monster.
+T001,182.75,183.66,0.91,Monsters.
+P049,183.83,184.52,0.69,Ah.
+T001,184.35,185.54,1.19,Yeah monster movies.
+P022,185.76,187.6,1.84,"Oh yeah, yeah, OK."
+T001,187.31,188.95,1.64,Uhm so.
+T001,189.57,194.5,4.93,"In the order you got them, it was cops, cars and then monsters."
+T001,195.25,201.54,6.29,So I'm going to ask you to rank them from most popular to least popular that based on you know the 100 people that were asked this question.
+P022,204.1,204.6,0.5,The.
+P022,206.78,207.91,1.13,What do you guys think?
+P007,208.52,210.83,2.31,"OK, I think it's cars."
+P049,211.46,214.11,2.65,I think ours maybe at the pistol one or two.
+P022,215.23,216.89,1.66,There's a lot of car chase movies.
+P049,217.1,218.47,1.37,"Yeah, the props and the furious."
+P007,218.01,221.9,3.89,"So let's, uh, let's go with cars, then what are the other two?"
+P022,218.98,219.49,0.51,Yeah.
+P049,222.67,224.38,1.71,Monsters Inc.
+P022,222.91,224.63,1.72,Then yeah.
+P007,223.98,226.85,2.87,Monsters and monsters. And then.
+P022,227.41,232.82,5.41,"Police yeah, I. I'd say that police are more common than monsters though."
+P049,227.45,227.85,0.4,Call
+T001,227.75,228.84,1.09,Police your cops.
+P007,229.46,230.09,0.63,I.
+P007,233.17,236.06,2.89,"Yeah, I think so. So we would go for car."
+P022,233.65,237.58,3.93,I think so. Although police do chase people in cars so.
+P007,237.12,241.43,4.31,"Yeah, yeah, so maybe police cars and then monster."
+T001,242.39,243.73,1.34,Carter the Ebony.
+P028,245.17,247.34,2.17,I agree yeah please cars and monster.
+P007,248.29,248.83,0.54,Trent
+T001,249.82,254.01,4.19,So we got a bit of consensus about police cars and then monsters.
+P022,252.71,253.27,0.56,Turn.
+P022,255.19,271.0,15.81,"I know I. I feel like cars is about three more broad genre then paste movies because lots of people get get chased in cars. They're not necessarily by the police, so I know which one. I think monsters is definitely last. I feel like there's not that many monster movies. Well, maybe they work, but I don't remember them so."
+P007,262.16,265.87,3.71,"here are the numbers. Yeah, slipping."
+P007,269.16,278.17,9.01,"Let's let's go for car, police and monsters. Then what do you think? Because police have also on cars. Other people also change other people on cars, so maybe."
+P007,279.0,280.79,1.79,Scouse Pilsen mums
+P022,280.23,286.85,6.62,"Yeah, so I agree Thomas. I think cars then police then monsters. What were the rest of us think?"
+P007,287.65,289.2,1.55,What do you think? Order?
+P028,290.64,295.35,4.71,"Uh, I also think it should be police cars and monsters."
+P022,295.66,298.16,2.5,"OK, so you think this should be police first?"
+P028,298.37,299.19,0.82,Yeah.
+P007,298.78,300.23,1.45,Viv
+P049,302.21,304.21,2.0,What country was the survey done?
+T001,306.07,307.67,1.6,Don't have that information on hand.
+P049,307.97,308.52,0.55,OK.
+P049,310.04,317.4,7.36,"Just you know, I think if it's in America, police could give it higher on the list than that. That's why, UM."
+P049,318.38,320.37,1.99,"Uh, yeah I would."
+P022,318.56,319.05,0.49,Right?
+P049,321.75,327.04,5.29,I definitely think I'm pretty cars being probably at the top.
+P049,328.04,329.91,1.87,"So I guess is that what, UM?"
+P049,330.94,334.23,3.29,Carter said I was like kind of. I think police.
+P007,333.45,344.9,11.45,The batboat 100 people would have told that's a bit more confusing because hundred people would have thought like us and they would have told police right away isn't it? Maybe bit confused at this point.
+P049,344.36,345.53,1.17,Cheap buy.
+T001,346.88,348.71,1.83,"Seems to be a bit of disagreement, but."
+P022,349.12,349.57,0.45,Man.
+P049,349.17,352.49,3.32,I I think I agree that monsters probably is last.
+P022,352.34,354.72,2.38,"Yeah, I think we all agree that monsters is lost."
+P007,352.57,356.28,3.71,"Yeah yeah, we all agree on that. We all agree on that."
+P049,353.8,354.01,0.21,So.
+P049,355.11,359.78,4.67,"Yeah, if we guess wrong, do we get a second choice, an option or?"
+P049,360.65,361.9,1.25,Like again.
+T001,360.81,361.34,0.53,Uh.
+T001,362.45,364.1,1.65,We move on to the next question.
+P049,364.13,364.74,0.61,"Oh, OK."
+P022,365.22,365.75,0.53,OK.
+P007,366.45,367.22,0.77,So let's.
+P022,366.55,370.2,3.65,So should we do a vote then which? Which is cars or police is first?
+P007,368.63,371.24,2.61,"Yeah, let's do about. Let's do a vote, yeah."
+P049,371.1,371.55,0.45,OK.
+P022,371.14,374.21,3.07,"OK, everybody who thinks cars is first put their hands."
+P022,376.64,382.29,5.65,"OK, well then that's 5050. There's no point in doing it, but if it can be split like that, I will come."
+P007,381.0,383.97,2.97,"OK, OK, I'll I'll go with cars as well."
+P022,383.59,386.27,2.68,"OK, you're coming onto our side with cars, OK?"
+T001,386.01,388.46,2.45,"OK, so you're going to say cars."
+P028,386.36,387.04,0.68,OK.
+T001,389.29,390.84,1.55,Police monsters.
+P022,390.92,391.48,0.56,Yes.
+T001,392.61,399.4,6.79,"Unfortunately not the order of monsters is actually first, so right from the get go you were you were, yeah."
+P022,396.37,396.9,0.53,What?
+P049,396.71,397.37,0.66,Ah.
+P007,396.92,397.37,0.45,What?
+P022,397.49,398.81,1.32,No.
+P007,398.98,399.17,0.19,Wow.
+P049,399.28,401.25,1.97,"And then right? Anyways, that's OK."
+T001,400.71,404.08,3.37,"Yeah, so it's monsters, cars and then cops."
+P007,401.71,402.54,0.83,It's so good.
+P022,401.73,402.23,0.5,Oh well.
+P049,404.45,406.55,2.1,What country was it? You don't know.
+P022,404.48,405.03,0.55,OK.
+P007,404.64,408.39,3.75,"OK, so he's got that. Got that priority right?"
+P028,405.56,406.59,1.03,Close all.
+P022,409.51,413.52,4.01,"So they don't have their priorities right. Anyway, I will ask anyway."
+T001,414.27,418.94,4.67,So we move on name an instrument in a Symphony Orchestra.
+P049,419.96,420.92,0.96,Highland.
+T001,421.06,422.33,1.27,"Violin is one of them, yeah."
+P022,423.03,423.91,0.88,Man.
+P049,426.0,427.01,1.01,Stylophone
+T001,427.59,432.56,4.97,"Not the xylophone now, but think tank, drums. Yep, drums is another one."
+P049,429.05,429.61,0.56,wrong.
+P022,429.96,431.5,1.54,Don't they have like 2 beds?
+P007,432.02,433.86,1.84,Drums do they have?
+P049,434.5,435.32,0.82,Tuba.
+P022,435.59,436.16,0.57,Yeah.
+T001,436.74,437.78,1.04,Not too bad now.
+P049,438.49,439.26,0.77,Burnett
+P007,440.0,442.94,2.94,"I really don't know anything about it. I mean, I'm not a."
+P022,442.32,444.15,1.83,Just guessing.
+T001,442.33,443.32,0.99,Not clarinet.
+P049,443.53,447.86,4.33,"Oboe, trombone, saxophone, cello."
+P007,443.62,444.1,0.48,It's true.
+P007,445.79,448.36,2.57,What about the hub or something do that?
+T001,448.33,452.6,4.27,"Cello cello is the one you got there through an exhaustive list, but."
+P022,450.32,451.83,1.51,We're just popping out instruments.
+P049,452.59,456.62,4.03,"I was in orchestra obviously, so I can just take down the list."
+P007,455.65,458.36,2.71,Hop bird runs.
+P022,456.59,459.62,3.03,"Oh, you you got all the knowledge about the instruments then?"
+P022,460.45,460.9,0.45,OK.
+P007,461.18,461.92,0.74,Violent.
+T001,462.19,463.33,1.14,Just making your way down.
+P022,462.43,466.98,4.55,"So which one? Which ones do we have? 'cause there was a lot of instruments there, I didn't fully take them all in."
+T001,467.31,473.54,6.23,Violin was the first one drum and then cello and those are the three most most popular.
+P022,473.84,474.41,0.57,OK.
+P022,475.52,476.36,0.84,The most popular.
+T001,475.66,478.45,2.79,So I'm going to get going to get them ranked now.
+P007,475.78,476.05,0.27,Oh
+P022,479.08,479.65,0.57,OK.
+P022,480.59,487.32,6.73,"I don't think, well, I think that like violin is at the top because most people would know about violence."
+P049,487.92,488.33,0.41,Yeah.
+P022,488.48,488.97,0.49,Yeah.
+T001,488.81,490.98,2.17,Seems like a safe assumption to make yet.
+P022,490.67,495.16,4.49,"Seems like a safe bet. OK now let's see what were the other two. Again, it was violin."
+P007,494.62,496.09,1.47,runs runs.
+P049,495.3,496.43,1.13,Cello and drums.
+T001,495.44,496.81,1.37,Drums and cello.
+P028,496.05,497.24,1.19,"Times, China."
+P007,497.65,498.11,0.46,Shut up.
+P022,498.76,501.9,3.14,"Yeah, and then I think it's only drums and then cello."
+P007,503.25,503.88,0.63,I agree.
+P022,504.21,507.5,3.29,"As a non instrument person, that's my, that's my opinion."
+P007,506.58,507.89,1.31,Yeah me too.
+T001,507.54,510.39,2.85,Ivian Carter. Do you have a? I didn't say on this.
+P028,510.01,520.94,10.93,"A wiring is a much more popular than shadow, and for drums I don't know. Maybe it is in the middle, yeah?"
+P049,522.53,523.2,0.67,"Yeah, I don't."
+P028,522.56,523.76,1.2,This should be.
+P049,524.2,538.79,14.59,"Yeah, I'm I'm 5050 on the drums cello thing, 'cause I think John came to my mind first, but if people thought of islands they could tell us I'm really 5050 but I agree. Violins person happy with whatever or the 2nd and 3rd."
+P022,537.29,537.63,0.34,Yes.
+T001,539.35,541.37,2.02,So if we've got two insurers.
+P022,539.53,539.96,0.43,Music.
+T001,542.04,545.41,3.37,And two sort of going for violin drum cello.
+P049,547.35,549.84,2.49,Let's go for the orders.
+T001,547.52,548.1,0.58,Tickling
+P007,548.81,551.5,2.69,"Let's go for it. Yeah, uhm?"
+P049,550.92,559.26,8.34,"Yeah, I'm at the answer. I'm willing to actually ask my understand and accept my uncertainty and hopefully the other pin."
+T001,551.66,552.93,1.27,"yeah, are you happy to go with that order?"
+T001,559.85,560.96,1.11,Card are you happy with that?
+P007,560.18,560.45,0.27,I.
+P028,561.7,562.47,0.77,"Yeah, yes."
+T001,563.05,563.64,0.59,OK.
+T001,564.91,572.1,7.19,"Unfortunately, it's violin. First file in his first he got that one, but it's cello and then drum."
+P028,568.68,569.27,0.59,Yeah.
+P022,569.09,569.54,0.45,Say.
+P022,572.35,572.9,0.55,What?
+T001,573.81,578.24,4.43,But I will say that you did very well in getting drum as quickly as he did.
+P028,573.97,574.78,0.81,Shadow
+P022,579.77,583.74,3.97,"Yeah, I never think of drum as a as a Symphony instrument, you know."
+T001,579.78,582.24,2.46,People tend to forget about percussion people.
+T001,583.51,585.86,2.35,People forget about percussion until it's not there.
+P022,585.04,585.42,0.38,Mute.
+P049,586.4,587.47,1.07,Xylophone
+T001,588.09,588.48,0.39,Yep.
+P022,588.65,589.45,0.8,Back back back.
+T001,591.51,592.04,0.53,But anyway.
+P022,592.47,593.02,0.55,OK.
+T001,592.75,595.33,2.58,We will go for number 3 maybe. Maybe this will be the one.
+P028,594.49,595.12,0.63,yeah.
+P022,595.59,597.77,2.18,"Maybe OK, will get it this time. Guys. Come on we can do it."
+T001,598.09,607.02,8.93,"So name a public place where you're likely to catch a cold or flu, and I'm going to preface this by saying this was given before the pandemic."
+P022,607.0,607.73,0.73,Rice
+P049,607.69,610.34,2.65,"OK, I'm still dealing with toilet or loo."
+T001,608.43,609.54,1.11,So the yeah.
+T001,610.92,612.36,1.44,"No, not one of them."
+P022,611.0,611.29,0.29,yeah.
+P049,612.42,613.09,0.67,Really.
+P007,613.44,616.03,2.59,"So I'm a movie, a movie."
+T001,613.52,613.99,0.47,Yeah.
+T001,616.27,618.4,2.13,"No, not like a movie or cinema, no."
+P022,618.24,619.57,1.33,Like the supermarket.
+P022,620.61,621.08,0.47,Taco
+T001,620.77,622.3,1.53,"Supermarkets good, but it's not right."
+P022,622.61,623.37,0.76,me
+P007,622.92,624.25,1.33,Park park
+T001,625.01,626.0,0.99,Not park.
+P022,625.97,630.92,4.95,you have to think back to the pre pandemic mindset where we didn't we or or not.
+T001,628.55,629.86,1.31,"Carter, have you got any?"
+P028,631.01,632.14,1.13,"Uh, Seattle."
+P028,632.94,633.91,0.97,Seattle.
+T001,633.03,634.14,1.11,"No, not the theater."
+P007,634.97,635.37,0.4,snap.
+P022,635.3,637.52,2.22,Phone case with an airplane counters a public place.
+T001,637.81,639.12,1.31,An airplane is one of them. Yep.
+P049,638.53,641.0,2.47,A tree.
+P007,638.97,643.43,4.46,His burst burst burst burst.
+P022,639.36,639.76,0.4,OK.
+P022,640.54,642.03,1.49,Can we go over to get sick on airplanes?
+T001,643.08,644.19,1.11,Training bosses.
+T001,645.01,646.54,1.53,Not even plane is one of them.
+P022,646.58,647.75,1.17,"OK, play this one of them."
+P007,646.9,647.48,0.58,Planes
+P049,647.04,647.36,0.32,Playing.
+P007,648.13,648.58,0.45,paint.
+P007,649.33,650.36,1.03,"Uh, well."
+P049,649.95,650.94,0.99,Hospital
+T001,651.26,652.41,1.15,Hospital is another one yet.
+P022,652.44,654.21,1.77,"Yeah, actually that's good buddy. Good luck."
+P007,653.36,654.45,1.09,Full moon.
+P022,656.11,657.94,1.83,"OK planes, hospitals."
+P007,658.21,658.92,0.71,Schools.
+P049,658.7,659.81,1.11,cool yeah.
+T001,658.98,660.87,1.89,Schools yes schools.
+P022,660.04,660.61,0.57,In Korea.
+P028,660.47,661.14,0.67,Cool.
+T001,662.13,663.36,1.23,Schools are another one.
+P007,663.39,668.01,4.62,"Playing hospitals, schools. Let's go for hospitals first. How many of you agree?"
+P022,669.22,673.47,4.25,Yeah hospitals people do get sick at hospitals all the time.
+P007,672.93,675.51,2.58,"Hospitals, schools, planes. How many agree?"
+P022,676.98,677.89,0.91,"Yeah, but no."
+T001,678.48,680.19,1.71,"Carter and Ivy, what do you think about this?"
+P028,679.53,685.76,6.23,"Uh, I think, uh hospitals playing and screws."
+P028,686.38,695.62,9.24,"Because playing has a smaller size and the plane is closed, it don't have a."
+P028,696.39,697.18,0.79,Uh.
+T001,697.95,700.02,2.07,"So recycled air type thing, yeah."
+P028,698.34,699.78,1.44,"Much air, yeah?"
+P049,700.34,700.94,0.6,Yeah.
+P007,700.42,705.12,4.7,"So, So what do you think? Would plane even go above hospitals?"
+T001,705.98,707.27,1.29,"Ivy, what do you think?"
+P049,707.92,708.64,0.72,I am.
+P049,709.27,728.08,18.81,I would put planes as one or two because I think people like What Car saying like thank you. Paul is very emotional reaction and people get very like Oh my gosh I only get sick. Someone sneeze on a plane even before hand they would take like that stuff up so I feel like it may be one of the things that would come to people's mind as the first one or the second one.
+P007,728.4,735.25,6.85,"That's true, but but but if you kids go to school so they usually fall sick quite."
+P049,729.02,731.04,2.02,And then schools may be lost.
+P007,735.98,736.91,0.93,"Fast, isn't it?"
+P007,737.48,737.85,0.37,But
+P049,738.03,743.87,5.84,If people are kids getting interviewed or if they have kids. But if you don't have kids.
+P007,744.81,745.32,0.51,2.
+P049,745.79,752.72,6.93,"And they're not toddlers, which are the Germany ones. Particularly fun. Maybe they wouldn't be as worried about the school."
+P022,748.53,750.12,1.59,"Yeah, that's true."
+P049,753.3,754.89,1.59,So we worry about their coworkers.
+P022,753.72,754.03,0.31,Yeah.
+P022,755.52,761.14,5.62,"Yeah, I was gonna say people are more likely or you know, if the sharing an office space with somebody and people start sneezing post."
+P007,755.58,756.05,0.47,Chu
+P049,760.84,761.47,0.63,Yeah.
+P007,761.85,765.42,3.57,"so are we seeing planes, hospitals, schools?"
+P022,765.69,781.3,15.61,"No, I don't know which is going to be first, whether it's gonna be like hospitals would be first or plane would be first. 'cause your people do have the thing where people always get to complain because they recycle there and whatnot like you were saying. But I'm don't know. But then you have hospitals. People automatically assume that were being sick anyway."
+P049,782.7,785.24,2.54,Can you repeat the framing of the question?
+P022,782.89,783.24,0.35,He
+T001,785.67,793.74,8.07,So it's a public place where you're likely to catch a cold or flu pre pandemic asked pre pandemic.
+P022,792.13,792.64,0.51,OK?
+P022,794.14,794.69,0.55,OK.
+P007,797.27,806.36,9.09,New panel is kind of confusing fees trusting that too much. Then that means plane might go down. Do you think or no?
+P007,807.56,813.61,6.05,"Because now we have that pandemic time frame and planes are the worst, isn't it? Or hospitals are also the worse."
+P022,814.97,834.64,19.67,"Yeah no. I think things people like the thing getting sick on planes. It is a thing you know people know about that. I wouldn't. I don't know which necessarily expect to get a call from walking into a hospital, but I wouldn't. I would expect to get like the sniffles, or something from walking into a plane. So I maybe I put things first. What do you guys think?"
+P007,822.43,823.0,0.57,Yeah.
+P007,826.83,827.3,0.47,OK.
+P007,836.64,837.36,0.72,I agree.
+P007,838.06,839.37,1.31,I think it's the plane.
+P049,838.09,838.56,0.47,Yeah.
+T001,838.81,841.49,2.68,Ivy Carter do you think plants verse?
+P049,840.35,856.38,16.03,"I mean, without planes in hospital 'cause I think people underestimate how much time she gets sick in healthcare and now pre pandemic. So yeah, maybe maybe planes fun, hospitals and schools. What do you think Carter?"
+P028,857.73,879.0,21.27,"Uh, I think it depends. Like in my mind I'm missing school, maybe the first one because everyone go to school but hospital we and playing with seldom go to hospital way setting seldom take plane so and when some cold and flu."
+P028,880.67,889.71,9.04,"Happening in the school, maybe a lot of children will go home like I think we take the most time in the school, I think."
+P028,891.69,892.26,0.57,Yeah.
+P007,894.91,906.6,11.69,"I mean, yeah, children, there's kind of, you know, when it comes to flu and not COVID children are kind of super spreaders, isn't it? They bring you from school."
+T001,895.08,896.05,0.97,Look like clip.
+P049,905.21,905.69,0.48,Yeah.
+P022,905.94,907.03,1.09,Yeah there Jeremy.
+P007,907.98,908.57,0.59,So.
+T001,907.98,910.51,2.53,So are we going to reconsider our position in school or?
+T001,911.46,913.05,1.59,Are we still going to go with the original order?
+P007,913.16,921.49,8.33,"I think the police random make is confusing me. I don't know why you keep stressing, so whether it's training school up and."
+T001,921.3,924.09,2.79,I suppose post pandemic dancers everywhere but.
+P022,924.25,925.38,1.13,"Yeah, that's true."
+P007,924.87,930.8,5.93,"Yeah, both started with the answer, but schools are not super spreaders. I think from what we know, but anyway and."
+P007,932.37,941.86,9.49,"OK, let's see if let's, let's vote on whether school is not the third place. Does anyone say that school is now the 3rd place? Can you raise your hands?"
+P022,941.93,942.25,0.32,But
+P022,943.04,945.86,2.82,"yeah, schools are still Germany, but I think I would still put them third."
+P022,946.69,948.61,1.92,Regards to hospitals and planes.
+P007,949.51,954.72,5.21,Carter you are of the opinion. School is small. The last isn't it or have you changed it?
+P028,955.45,959.92,4.47,"Yeah, maybe I will agree with you because I think like."
+P028,961.39,964.7,3.31,"If you wanna play, maybe a is more dangerous, yeah?"
+P007,965.14,972.27,7.13,"OK, fine, so let's go for a plain hospital school. Everybody agree anyone disagree with this order."
+P022,973.54,975.47,1.93,"Hey, I think it's OK yeah?"
+T001,975.42,976.77,1.35,We have consensus.
+P028,976.41,976.94,0.53,Yeah.
+P022,977.16,978.21,1.05,"Yeah, I think you do."
+P007,977.43,978.86,1.43,Hi Ivy.
+P049,980.48,988.35,7.87,"Oh yeah, yeah, I'm good. The only the only thing I was starting out or that I hopefully is not wrong about with that planes are in the top two other than that."
+T001,982.16,982.7,0.54,OK.
+P049,989.05,990.69,1.64,"I don't know the public, so."
+P022,991.13,992.75,1.62,"Yeah, we're listening."
+T001,992.11,993.82,1.71,It's actually flipped the other way.
+T001,995.34,999.95,4.61,So it's aeroplane last hospital in the middle and on school 1st.
+P028,999.39,1000.44,1.05,"Yeah, school."
+P022,999.85,1001.66,1.81,I don't think you're right.
+P028,1001.94,1002.56,0.62,Yeah.
+P007,1001.95,1004.14,2.19,"What, yeah, we?"
+P049,1003.18,1010.39,7.21,"Really need to educate these people as well, because why did they not have lose in the top three? You know? I mean, like you've been pre pandemic."
+P022,1010.15,1013.11,2.96,"Well, you know you wash your hands, you know it's it's sanitary."
+P049,1012.59,1015.07,2.48,"Today, did they really at all stages?"
+P007,1015.26,1015.68,0.42,Yeah.
+P022,1015.44,1017.07,1.63,"Well, we hope so. We hope so."
+P049,1017.66,1019.23,1.57,Public train toilets now.
+P022,1019.58,1020.07,0.49,Oh
+P007,1019.9,1020.37,0.47,Which.
+T001,1020.3,1025.81,5.51,"Hope, well, we've got a fourth question and I hope I hope this is your one."
+P022,1021.04,1021.4,0.36,yeah.
+P022,1023.81,1024.28,0.47,OK.
+P022,1026.4,1026.83,0.43,OK.
+T001,1026.9,1030.33,3.43,So name something that you did not learn in school.
+P049,1033.53,1034.57,1.04,How to talk?
+T001,1037.01,1041.14,4.13,"Good one, but not you know, think more life skills."
+P022,1040.28,1045.29,5.01,"I know we do. We do learn about it, but a lot of people always complain that they don't learn about taxes in school."
+T001,1045.98,1047.93,1.95,"No taxes, although that is a good one."
+P022,1047.11,1049.02,1.91,Or like your finances.
+P022,1050.8,1051.41,0.61,Me.
+P007,1050.97,1051.63,0.66,Low.
+T001,1052.49,1052.9,0.41,Sorry.
+P007,1053.4,1054.02,0.62,Low.
+T001,1054.59,1060.33,5.74,"No, not that I think. Think more life skills. You know things school of life type stuff."
+P022,1059.59,1059.98,0.39,Like
+P022,1060.69,1065.06,4.37,so why? I think like how to change a tire and how to put up shelves and stuff like that.
+P007,1061.43,1065.01,3.58,Bleach and relationships relationships.
+T001,1066.17,1071.06,4.89,Not relationships. It is sort of in the region of things. Might not relationships but think.
+P007,1066.27,1066.74,0.47,Uh.
+P007,1072.07,1072.78,0.71,Health.
+T001,1072.17,1074.72,2.55,Thinking that that's fear of things.
+P007,1075.24,1076.36,1.12,Mental health.
+T001,1076.85,1084.16,7.31,What mental health no think of thinkers responsibilities? Maybe certain responsibilities that you have now that you didn't have as a child.
+P028,1078.55,1079.16,0.61,Pan
+P007,1088.08,1090.13,2.05,Earning earning an income.
+T001,1090.5,1092.25,1.75,"No, not earning income."
+T001,1093.73,1094.92,1.19,"Carter, do you have any ideas?"
+P028,1096.64,1097.49,0.85,uh
+P028,1099.45,1101.99,2.54,paying the money for the parents.
+P028,1104.1,1104.9,0.8,Like I can't.
+T001,1104.52,1105.47,0.95,Close.
+P028,1106.37,1109.03,2.66,I can't. I don't use one word.
+P028,1109.94,1114.81,4.87,"Uh, like uh, when you are very young or parents."
+P028,1117.33,1123.5,6.17,Pay the money and do everything for you and when they are out we need to like.
+P028,1124.87,1125.39,0.52,Yeah.
+T001,1124.94,1132.77,7.83,"I think I think it's not one of them. I know what you're saying, but it's it's close. Like you've got that sort of responsibility, but think of like."
+T001,1133.81,1135.74,1.93,What's something that you do every day?
+P007,1136.32,1137.05,0.73,Shopping.
+T001,1138.13,1139.92,1.79,And that would be something like.
+P022,1140.88,1141.83,0.95,Care of yourself.
+T001,1141.11,1142.64,1.53,"Shopping, sorry."
+P022,1142.86,1144.29,1.43,Is taking care of yourself.
+P007,1143.14,1145.29,2.15,"Cool, they nearly chose."
+T001,1144.94,1146.39,1.45,Kind of yeah like you might.
+P007,1146.11,1147.17,1.06,Delete those.
+P049,1147.07,1147.53,0.46,Green
+T001,1147.62,1152.15,4.53,"Daily chores daily chores. Yeah like household chores, cooking and cleaning and."
+P007,1152.22,1153.23,1.01,"OK, OK."
+T001,1152.91,1153.82,0.91,Keeping your life in order.
+P022,1153.18,1153.53,0.35,Yeah.
+P022,1154.55,1155.05,0.5,Yeah.
+T001,1155.77,1156.68,0.91,So that's one of them.
+P022,1157.25,1157.82,0.57,Naked.
+P007,1157.27,1160.62,3.35,"So household shows are one of them. OK, uh?"
+T001,1159.36,1159.78,0.42,Yep.
+P049,1160.84,1161.71,0.87,not in focus.
+P007,1162.58,1166.73,4.15,Food and water is high schools.
+P049,1166.35,1173.46,7.11,"She had hoped we had cooking homec in my school, so I feel like everything of people mentioned I got caught in school as well before."
+P007,1172.58,1174.27,1.69,Maybe cooking maybe?
+T001,1173.62,1174.88,1.26,You got an education.
+P022,1176.07,1179.54,3.47,"I mean, I did as well and I didn't learn anything in there, so."
+P007,1176.26,1176.58,0.32,But
+P049,1179.58,1181.05,1.47,I could make a bagel pizza.
+P022,1182.27,1182.88,0.61,Welcome.
+P049,1184.33,1184.89,0.56,So the.
+P022,1184.52,1184.87,0.35,Yeah.
+P049,1186.44,1187.72,1.28,Come let's see.
+P007,1187.27,1196.08,8.81,"so sorry William, should we like all the household chores are gone like cooking in."
+T001,1195.19,1198.86,3.67,"He yeah yeah like cooking, cleaning and all that, but they're all under the umbrella."
+P007,1197.58,1198.23,0.65,You're dumb.
+P022,1198.94,1204.29,5.35,"Alright, So what else do we not learn in school? OK, so if you take out household tord's out of the equation."
+P007,1199.9,1200.27,0.37,****.
+P007,1206.6,1208.47,1.87,How to swim maybe.
+T001,1209.12,1210.55,1.43,"No, not how to swim."
+P022,1210.96,1211.84,0.88,I don't know.
+T001,1213.73,1214.49,0.76,I'll say that.
+T001,1215.21,1223.15,7.94,"One of these this is going to be a bit of a cryptic clue, but one of these is a thing that when people don't have, it's very obvious that they don't have."
+P022,1223.98,1225.14,1.16,Your personal skills.
+T001,1225.87,1226.7,0.83,Close.
+T001,1229.9,1232.54,2.64,It's still close. Kind of these things are related to it.
+P022,1232.83,1233.38,0.55,OK.
+P022,1234.79,1235.27,0.48,The.
+P022,1236.39,1238.52,2.13,"No, maybe Carter you have any ideas."
+P028,1239.48,1241.59,2.11,Uh no contact no.
+T001,1241.82,1242.39,0.57,I don't know.
+P022,1242.47,1244.34,1.87,Skills communication.
+P007,1243.52,1244.76,1.24,Inverted.
+T001,1244.68,1246.47,1.79,They're all very related.
+P022,1246.56,1249.27,2.71,"Well, we're kind of circling this, but we're not getting there."
+T001,1248.95,1249.34,0.39,Yeah.
+P049,1248.98,1253.12,4.14,"Not not very. We already said like interpersonal skills, right?"
+T001,1252.66,1259.01,6.35,"Yeah, it's all. It's all very related, but like if this person doesn't have this, they might be like."
+P007,1260.2,1261.95,1.75,Starting a conversation.
+T001,1260.59,1261.02,0.43,They might.
+T001,1263.16,1268.83,5.67,"Quite like this person, this person might be very nice to talk to her to deal with if they don't have these."
+P022,1263.8,1264.73,0.93,Social skills.
+P049,1271.82,1272.24,0.42,Awesome.
+P007,1271.86,1272.69,0.83,Could he?
+T001,1273.82,1276.93,3.11,"Close, yeah, I think they might be described as rude or."
+P049,1280.6,1282.04,1.44,Manners like.
+T001,1281.58,1283.0,1.42,"Manners, yes."
+P022,1282.89,1284.88,1.99,"Oh OK, yeah."
+T001,1284.89,1287.27,2.38,"You don't have manners, so manners is another one."
+P007,1288.54,1292.23,3.69,"Manners are OK, I feel they are taught in schools, but anyway."
+P022,1292.35,1298.36,6.01,"Well, the school doesn't teach you, but it's kind of like if you don't have any manners. Well our people don't like you, so you learn pretty quick."
+P007,1297.46,1302.87,5.41,"You get reprimanded in schools and then you know that that's not the right man is, but OK that."
+P049,1302.42,1305.39,2.97,"To finishing school? Yeah, then I get the magnet."
+P022,1302.45,1302.9,0.45,Yeah.
+P022,1306.05,1308.36,2.31,Listen to you there OK?
+T001,1307.77,1309.02,1.25,We've got one more.
+P022,1309.32,1310.74,1.42,"OK, sure."
+T001,1310.12,1313.67,3.55,"And it's kind of related to responsibilities, but it's a bit more."
+P007,1310.14,1310.97,0.83,Who's smart?
+P007,1315.99,1318.06,2.07,Standing on your own leg.
+T001,1318.94,1320.45,1.51,No no.
+P022,1319.77,1320.23,0.46,In
+P007,1321.06,1322.33,1.27,Self lens.
+P022,1321.78,1322.81,1.03,having growing up.
+P049,1323.38,1324.5,1.12,About children.
+T001,1324.57,1326.66,2.09,"It is about children and growing up, yeah."
+P049,1327.73,1329.55,1.82,How to parent?
+T001,1329.56,1331.5,1.94,How to parent your parenting.
+P022,1331.24,1332.09,0.85,Or OK.
+P007,1332.42,1332.98,0.56,Enter.
+P049,1332.49,1333.0,0.51,Ah.
+T001,1334.41,1336.96,2.55,So we had household chores.
+T001,1337.55,1345.4,7.85,Manners and parenting skills. So I think you know what to do at this stage. We're going to write them from most popular to least popular.
+P022,1345.62,1350.07,4.45,"OK, I think at this point we should just go in the opposite of the way that we think. It's so that we can get the price."
+P007,1350.23,1353.74,3.51,"And then then what we think would be right anyway, uh?"
+P022,1352.6,1354.32,1.72,"Yeah, uhm."
+T001,1353.21,1353.67,0.46,Yeah.
+P007,1354.62,1355.25,0.63,So.
+T001,1355.33,1357.74,2.41,"You're learning, you're doing the opposite of here. Your track record."
+P022,1359.43,1359.97,0.54,OK.
+P007,1359.44,1362.18,2.74,Chose chose first for me.
+P007,1363.38,1372.68,9.3,"Do anymore we chose OK, let's let's white in the order that we have got, so chose manners and parenting."
+P022,1364.02,1364.56,0.54,Yeah.
+P022,1373.57,1379.29,5.72,"Yeah, I mean I don't know. I feel school like you. Like I said before, the school does teach you manners in some ways."
+P007,1379.75,1385.66,5.91,"Yeah, apparently is something school won't teach. I have even some schools."
+P049,1380.69,1381.12,0.43,Yeah.
+P049,1383.66,1385.39,1.73,"No, we had we had that."
+P022,1383.85,1384.51,0.66,We are.
+P049,1386.09,1395.9,9.81,"We had in in middle school you had to have an egg child. You carried around for a week and then the high schools. They would make some of them make you carry around the electronic babies, yeah?"
+P007,1394.33,1395.48,1.15,"OK, OK."
+T001,1395.17,1399.58,4.41,"I thought that I thought that was only something that happened in in television, but it's it's just."
+P022,1395.72,1397.02,1.3,"Well, we never got to do that."
+P022,1398.69,1399.12,0.43,Yeah.
+P049,1398.72,1400.89,2.17,"No, no, no, did you not?"
+P007,1400.13,1410.26,10.13,"No, no, it never happened in our school. I mean, we were anyway that that's, uh, you know. Some cultural aspects. Also commonly. Yeah, there's a cultural difference."
+P022,1400.45,1401.6,1.15,Actually made you do that.
+P049,1406.7,1411.67,4.97,"It's a big cultural difference. Yeah, we haven't. Even in America. I went to a very liberal school."
+P022,1412.11,1413.3,1.19,"Yeah, oh, that's why."
+T001,1412.17,1414.04,1.87,Order if you any ideas.
+P007,1412.71,1413.31,0.6,But it.
+P028,1415.36,1416.35,0.99,Uh.
+P028,1417.39,1421.86,4.47,I think how repaired this the 1st and a.
+P028,1423.7,1426.15,2.45,"Chase is the second one, yeah?"
+T001,1429.07,1429.66,0.59,K.
+P007,1429.19,1431.0,1.81,"And my nose is stored, is it?"
+P028,1431.46,1434.29,2.83,He yeah because I think school.
+P028,1435.04,1439.07,4.03,"Uh, give us some some lessons about manners here."
+P007,1440.05,1442.14,2.09,"OK, OK, I don't think so."
+T001,1440.87,1445.9,5.03,"So just to get a feel for the room, I think we all felt that maybe manners is at the bottom."
+T001,1447.92,1448.92,1.0,Am I right in saying that?
+P022,1448.04,1448.37,0.33,Yeah.
+P007,1448.24,1451.05,2.81,Don't disagree anyone disagree.
+P022,1452.06,1453.62,1.56,"No, I think mine is at the bottom."
+P007,1453.77,1464.76,10.99,"Wait so manners? It's a third and I would go for parenting. Let's put a vote on parenting that if you think that parenting goes first, can you raise your hands?"
+P007,1467.89,1473.42,5.53,We don't think so. So two of us think that parenting goose first two. I think that's.
+T001,1472.78,1473.92,1.14,Two don't so.
+P022,1474.02,1479.55,5.53,"Yeah, I guess we both did hold back and I don't know like they didn't give us a metal baby, but it was taught."
+P007,1475.4,1483.28,7.88,"That's that's that's cultural. That's cultural, it's more. And I don't know whether that's related to gender as well."
+P022,1480.64,1481.65,1.01,My baby is so.
+P007,1484.13,1484.63,0.5,Anyway.
+T001,1484.95,1485.5,0.55,Do you think?
+P049,1485.49,1486.12,0.63,Think about that.
+P022,1486.39,1490.58,4.19,"Although I think people do complain that you know, oh, why aren't we taught life skills in schools?"
+P022,1491.2,1501.67,10.47,"Hear people complain about that all the time, necessary to hear them complaining about it not being taught how to parent. You know, you know, everybody talks about how you should have parenting classes or whatever. Yeah, true, but not in school."
+P049,1493.28,1493.73,0.45,Yep.
+T001,1496.96,1497.62,0.66,Yeah.
+P049,1501.29,1501.75,0.46,Not.
+P022,1502.96,1509.54,6.58,"Like you always hear people complaining that oh, you know, we don't know how to put up shelves. Oh my gods will never come here to change a tire that's so useful."
+P022,1510.22,1512.41,2.19,"Yeah, I hear about that. I keep complain about that all the time."
+P007,1510.45,1510.86,0.41,Big.
+P049,1512.63,1514.24,1.61,"Yeah, yeah, same."
+P007,1513.77,1519.83,6.06,"So we're we're still stuck on that, isn't it? Parenting and choose which would come first, right?"
+P022,1519.93,1520.5,0.57,Yeah.
+P022,1521.78,1526.79,5.01,"This is not work, but school doesn't teach you. It's what people say. That school doesn't teach you."
+P022,1527.66,1532.61,4.95,So I'd say that's cool. They complained that school doesn't teach them how to do household chores more.
+T001,1528.38,1528.95,0.57,Yeah.
+P049,1534.74,1548.61,13.87,"I feel like household chores I would put first, but I'm confused by the fact that we're going to go with what we we don't opposite what we think. So what I would actually think is how so children sport first what we do with that is is whatever."
+P022,1548.76,1556.61,7.85,"No, I think, well like we just we know how much we can try and work the system to try and reverse our answers. So I think we should just go with what we think."
+P049,1555.59,1556.01,0.42,Yeah.
+P049,1556.92,1564.03,7.11,"Yeah, I I 'cause I think Thomas you had household chores pressure like that whole category itself is kind of what came to mind maybe so that's what I have first."
+P022,1564.69,1565.18,0.49,Yeah.
+P007,1565.51,1566.79,1.28,Hey so what's the point?
+P022,1565.89,1571.42,5.53,"That's the first thing we all talked about was like, Oh yeah, this is how to do things."
+P049,1567.8,1568.31,0.51,Yeah.
+P022,1572.23,1572.82,0.59,Uh.
+P007,1575.23,1577.2,1.97,PCM has a ring to it though.
+P022,1578.66,1579.13,0.47,News.
+P007,1581.94,1582.63,0.69,CPM.
+P022,1582.95,1583.48,0.53,Thanks.
+T001,1584.24,1585.23,0.99,So are we any further?
+P022,1584.26,1584.57,0.31,No.
+P007,1589.66,1593.67,4.01,Should we flip a coin or something because we applied?
+P049,1592.59,1593.19,0.6,Yeah.
+P049,1594.97,1595.81,0.84,Do you have a car?
+P022,1598.79,1601.54,2.75,"I know, but why do you think that people think they don't teach parenting?"
+P022,1602.79,1604.51,1.72,"Most, why do you think that that's the most?"
+P007,1605.43,1619.18,13.75,"Because it's from our experience, I would say like we have never been taught. You know, like being apparent at that young age is kind of unthinkables. Nobody really teaches you, they just teach you that you shouldn't have children so early, that's all."
+P022,1619.77,1627.78,8.01,"Yeah, but you know, it's all about whether they don't teach you. Ever hear like your friends complaining but nobody teaches you how to parents. 'cause I hear my friends complaining about nothing. He taught tours all the time."
+P007,1628.1,1640.65,12.55,"I I don't have many friends who are parents, but I so I can't, but I don't know that's that's more like I haven't heard it. If I said that I heard it, then that's not right."
+P022,1632.33,1632.76,0.43,Yeah.
+P007,1641.59,1652.2,10.61,"But I haven't heard about people complaining that they were not told. Chose this. Well, not that much, but maybe choose a bit more heavy flipping the coin. Or are we trying to reach a concert?"
+P022,1651.85,1653.91,2.06,I think we can work it out. I think we could work it out.
+P049,1653.77,1656.06,2.29,"I'm trying to find a coin, but."
+P022,1655.97,1656.47,0.5,That's it.
+T001,1656.39,1660.76,4.37,"So we are putting manners at the bottom. That's fine, that's we're locking that in."
+P049,1659.57,1661.37,1.8,Everything's on contact list.
+P022,1661.73,1662.32,0.59,Yeah.
+P007,1661.87,1665.46,3.59,Gives convincing us again. It's like like.
+T001,1664.35,1664.8,0.45,Yeah.
+P007,1667.06,1668.03,0.97,Stressing on that.
+T001,1667.35,1667.87,0.52,So.
+P049,1668.67,1669.24,0.57,Oh wait.
+P049,1671.03,1674.25,3.22,"Oh, it's got to be a ï¿½1.00, so it's like the tiniest one."
+P022,1675.04,1677.38,2.34,"Actually gonna flip OK, we could. We could just appointed decide."
+P049,1676.57,1680.08,3.51,Put it here if you need it. There's a one year out point.
+P022,1679.63,1680.12,0.49,Yes.
+P007,1679.91,1683.22,3.31,"What should I say, head or tails or whatever WhatsApp?"
+P049,1683.75,1684.24,0.49,It's.
+T001,1683.93,1684.33,0.4,But
+P049,1685.41,1687.84,2.43,"Yeah, it's world or."
+P049,1688.69,1689.35,0.66,Leaf.
+P022,1689.93,1691.6,1.67,In over leaf I see.
+P049,1691.02,1694.47,3.45,Worlds on the front with the one and then there's a leaf on the back.
+P022,1695.18,1695.52,0.34,Yeah.
+P049,1695.54,1697.62,2.08,Of some kind of walnut tree.
+P007,1695.89,1697.6,1.71,"Uh, OK."
+P022,1696.62,1704.89,8.27,"Alright, let's go second. So Carter, why do you think that people would coparenting 1st 17? You talk about it?"
+P028,1705.75,1721.42,15.67,"Uh, to be honest, like, uh, it depends on the, uh, where do we get the education like it for me? I get education. Before the college I get education in China. Three of them."
+P028,1722.81,1741.86,19.05,Manners we have taught the manner and for the housing choice and the parenting we don't have. We don't have any costs related to its. So basically I can't rank them but.
+P028,1742.57,1755.04,12.47,"For me, I think parenting is more a much more important than the House choice show. So I think parenting should be."
+P028,1755.77,1757.64,1.87,The most worrying one.
+P007,1758.68,1768.09,9.41,"Great and I have a feeling since this study is done in the US, maybe we can agree with my and Ivy maybe."
+P022,1758.7,1759.16,0.46,OK.
+P028,1759.61,1760.18,0.57,Yeah.
+P007,1768.91,1769.56,0.65,Because.
+P022,1769.0,1774.8,5.8,"Yeah no, I guess so that its people were doing school different places. You would have different things about that, yeah?"
+P007,1770.91,1782.73,11.82,"You know the IT would be thought processes. I think you know. In the Western world, so maybe I I think let's change, UM, let's just."
+P022,1782.13,1783.36,1.23,No. Are you going to jump ship?
+T001,1783.63,1787.24,3.61,So can we reach a bit of consensus here? Could I push you for a consensus?
+P022,1787.51,1788.0,0.49,OK.
+P007,1787.93,1791.5,3.57,"Yeah, I think I would because you know, like."
+P007,1792.58,1800.05,7.47,"That's OK, CPM then sous parenting manners is that everyone caught up."
+P022,1797.56,1804.91,7.35,"OK, OK, that will probably be wrong, but you were right in the last time so."
+P028,1801.82,1802.61,0.79,Yeah.
+T001,1802.03,1803.5,1.47,Chores parenting manners.
+P007,1805.03,1809.56,4.53,"Miller, that's my thing. Like he was wide the last time, so it's like."
+T001,1810.15,1812.91,2.76,"So chores, parenting manners."
+P022,1812.97,1813.68,0.71,"OK, yeah."
+T001,1815.47,1819.58,4.11,"Unfortunately, it's it's parenting manners and chores, but."
+P022,1819.33,1820.21,0.88,"Oh, geez."
+P049,1821.82,1829.79,7.97,"Really, Madam? Second I I complete. I think basically we go with Carter on the 1st and then whatever. I think definitely the second is the third."
+P007,1822.53,1823.56,1.03,Play again.
+P022,1829.91,1830.38,0.47,Yeah.
+P022,1832.77,1834.36,1.59,It just seems to he's always right.
+P007,1833.25,1837.02,3.77,Who we are. We are we going to the next question or?
+T001,1836.81,1839.16,2.35,"No go for four, I'm afraid, but."
+P022,1838.81,1839.21,0.4,East
+P022,1841.13,1841.9,0.77,that's abysmal.
+T001,1841.82,1843.55,1.73,I I like to think I like to think.
+T001,1844.73,1847.03,2.3,"But you had a good time doing it, at least so."
